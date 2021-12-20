@@ -6,7 +6,7 @@ This app uses indexDB, mongodb, to store data when its online and offline. When 
 
 # Link to Deployed Site in Heroku
 
-https://glbudgettracker.herokuapp.com/
+
 
 # Image
-<img src="https://github.com/gllil/pwa-budget-tracker/blob/master/public/assets/images/screenshot.PNG">
+
